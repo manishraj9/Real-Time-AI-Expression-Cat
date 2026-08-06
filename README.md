@@ -51,7 +51,9 @@ The cat becomes angry when the user's facial expression is detected as angry.
 
 https://github.com/manishraj9/Real-Time-AI-Expression-Cat
 
-*(You can also add a GIF or YouTube demo link here.)*
+ [Watch Demo](assets/demovideo.mp4)
+ [Watch Demo](assets/demovideo2.mp4)
+ 
 
 ---
 
