@@ -213,6 +213,13 @@ Display Matching Cat Image
 - Windows / Linux / macOS
 
 ---
+## AI Models
+
+- DeepFace Emotion Recognition
+- MediaPipe Face Mesh
+- MediaPipe Hands
+---
+
 
 # 🔮 Future Improvements
 
@@ -231,17 +238,28 @@ Display Matching Cat Image
 
 # 📚 Learning Outcomes
 
-Through this project, I learned:
+Through this project I learned:
 
 - Real-Time Computer Vision
-- AI-Based Emotion Recognition
 - Facial Landmark Detection
 - Hand Gesture Recognition
+- Emotion Recognition using AI
 - OpenCV Image Processing
 - MediaPipe Integration
 - DeepFace Integration
-- Python Application Development
+- Webcam Processing
+- Python Desktop Application Development
 
+---
+# 🙏 Acknowledgements
+
+Thanks to the developers of:
+
+- OpenCV
+- MediaPipe
+- DeepFace
+
+for providing powerful open-source libraries that made this project possible.
 ---
 
 # ⚠️ Note
@@ -259,6 +277,10 @@ This project is a desktop application that requires access to the user's webcam.
 GitHub:
 https://github.com/manishraj9
 
+---
+# 📄 License
+
+This project is licensed under the MIT License.
 ---
 
 # ⭐ Support
