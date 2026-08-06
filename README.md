@@ -28,7 +28,7 @@ The cat winks when the user winks.
 
 The cat gives a thumbs-up when the user performs a thumbs-up gesture.
 
-📷 **Screenshot:** [👍 Thumbs-Up Gesture](assets/thumbsup.png)
+📷 **Screenshot:** [👍 Thumbs-Up Screenshot](assets/thumbsup.png)
 
 ---
 
