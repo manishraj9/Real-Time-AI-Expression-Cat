@@ -10,12 +10,14 @@ This project combines **Artificial Intelligence, Computer Vision, and Machine Le
 
 ### 😄 Smile Detection
 > The cat smiles when the user smiles.
+> 
 
 ### 😉 Wink Detection
 > The cat winks when the user winks.
 
 ### 👍 Thumbs-Up Gesture
 > The cat gives a thumbs-up when the user performs a thumbs-up gesture.
+> ![Thumbs Up](assets/thumbsup.png)
 
 ### 😲 Surprise Detection
 > The cat reacts with a surprised expression.
