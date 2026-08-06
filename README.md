@@ -8,27 +8,43 @@ This project combines **Artificial Intelligence, Computer Vision, and Machine Le
 
 ## 📸 Preview
 
-### 😄 Smile Detection
-> The cat smiles when the user smiles.
-> 
+## 😄 Smile Detection
 
-### 😉 Wink Detection
-> The cat winks when the user winks.
+The cat smiles when the user smiles.
 
+📷 **Screenshot:** [😄 Smile Detection](assets/smile.png)
+
+---
+
+## 😉 Wink Detection
+
+The cat winks when the user winks.
+
+📷 **Screenshot:** [😉 Wink Detection](assets/wink.png)
+
+---
 
 ## 👍 Thumbs-Up Gesture
 
 The cat gives a thumbs-up when the user performs a thumbs-up gesture.
-[👍 Thumbs-Up Screenshot](assets/thumbsup.jpg)
 
+📷 **Screenshot:** [👍 Thumbs-Up Gesture](assets/thumbsup.png)
 
+---
 
-### 😲 Surprise Detection
-> The cat reacts with a surprised expression.
+## 😲 Surprise Detection
 
-### 😠 Angry Expression
-> The cat becomes angry when the user's facial expression is detected as angry.
+The cat reacts with a surprised expression when the user makes a surprised face.
 
+📷 **Screenshot:** [😲 Surprise Detection](assets/surprise.png)
+
+---
+
+## 😠 Angry Expression
+
+The cat becomes angry when the user's facial expression is detected as angry.
+
+📷 **Screenshot:** [😠 Angry Expression](assets/angry.png)
 ---
 
 ## 🎥 Demo
