@@ -15,9 +15,12 @@ This project combines **Artificial Intelligence, Computer Vision, and Machine Le
 ### 😉 Wink Detection
 > The cat winks when the user winks.
 
-### 👍 Thumbs-Up Gesture
-> The cat gives a thumbs-up when the user performs a thumbs-up gesture.
- assets/thumbsup.png
+
+## 👍 Thumbs-Up Gesture
+
+The cat gives a thumbs-up when the user performs a thumbs-up gesture.
+
+![Thumbs-Up Gesture](assets/thumbsup.png)
 
 ### 😲 Surprise Detection
 > The cat reacts with a surprised expression.
