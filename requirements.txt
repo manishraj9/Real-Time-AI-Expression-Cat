@@ -1,5 +1,10 @@
-numpy==1.26.4
-protobuf==3.20.3
-opencv-python==4.9.0.80
-mediapipe==0.10.7
-deepface==0.0.93
+This project requires the following Python libraries:
+
+| Library | Version |
+|---------|---------|
+| Python | 3.10+ |
+| OpenCV | 4.9.0.80 |
+| MediaPipe | 0.10.7 |
+| DeepFace | 0.0.93 |
+| NumPy | 1.26.4 |
+| Protobuf | 3.20.3 |
