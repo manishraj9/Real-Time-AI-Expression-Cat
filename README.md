@@ -27,7 +27,7 @@ This project combines **Artificial Intelligence, Computer Vision, and Machine Le
 
 ## 🎥 Demo
 
-https://github.com/manishraj9/expression-cat
+https://github.com/manishraj9/Real-Time-AI-Expression-Cat
 
 *(You can also add a GIF or YouTube demo link here.)*
 
