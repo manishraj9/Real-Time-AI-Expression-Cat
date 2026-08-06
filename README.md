@@ -19,6 +19,7 @@ This project combines **Artificial Intelligence, Computer Vision, and Machine Le
 ## 👍 Thumbs-Up Gesture
 
 The cat gives a thumbs-up when the user performs a thumbs-up gesture.
+[👍 Thumbs-Up Screenshot](assets/thumbsup.jpg)
 
 
 
