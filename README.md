@@ -20,7 +20,7 @@ The cat smiles when the user smiles.
 
 The cat winks when the user winks.
 
-📷 **Screenshot:** [😉 Wink Detection](assets/wink.jpg)
+📷 **Screenshot:** [😉 Wink Detection](assets/winks.jpg)
 
 ---
 
